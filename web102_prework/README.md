@@ -1,8 +1,8 @@
-# WEB102 Prework - *Sea Monster*
+# WEB102 Prework - *Fund It*
 
 Submitted by: **Tesfaye Kefene**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Fund It** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **5** hours spent in total
 
