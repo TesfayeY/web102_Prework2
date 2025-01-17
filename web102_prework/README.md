@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tesfaye Kefene**
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -17,11 +17,11 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
-* [x]
-* [x]
-* [x]
-* [x]
+* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Hover effect for stats container
+* [x] Hover effect for games card
+* [x] Animated button with hover
+* [x] Improved background, header and button colors
 
 ## Video Walkthrough
 
@@ -39,10 +39,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had an issue with git where started the project with another loop and it took me a while to fix that. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Tesfaye Kefene]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
